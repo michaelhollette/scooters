@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/MultiverseLearningProducts/scooter-project-solution#readme",
   "dependencies": {
+    "bcrypt": "^5.1.1",
     "jest": "^27.5.1"
   },
   "devDependencies": {

@@ -106,6 +106,7 @@ class ScooterApp {
       console.log(`${s} has ${this.stations[s].length} scooters`);
     }
   }
+  
 
 }
 

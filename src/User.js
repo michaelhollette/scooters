@@ -1,3 +1,5 @@
+const bcrypt = require('bcrypt');
+
 class User {
   // User code here
   constructor(username, password, age){
@@ -16,6 +18,7 @@ class User {
   logout(){
     this.loggedIn = false;
   }
+  
 }
 
 module.exports = User
